@@ -23,7 +23,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/atuf-dev/Employee_Management_System.git
 Navigate to the Project Directory
 
 bash
